@@ -6,13 +6,13 @@
       <entry action="ActivatePythonConsoleToolWindow" count="1" />
       <entry action="ActivateTerminalToolWindow" count="1" />
       <entry action="CheckinFiles" count="1" />
-      <entry action="CheckinProject" count="4" />
+      <entry action="CheckinProject" count="5" />
       <entry action="ChooseRunConfiguration" count="2" />
       <entry action="Configure Python Interpreter" count="1" />
       <entry action="ConfigureIcs" count="2" />
       <entry action="CopyPaths" count="1" />
       <entry action="Debug" count="43" />
-      <entry action="DialogOkAction Enter" count="4" />
+      <entry action="DialogOkAction Enter" count="5" />
       <entry action="EditorBackSpace" count="1034" />
       <entry action="EditorChooseLookupItem" count="4" />
       <entry action="EditorChooseLookupItemReplace" count="97" />
@@ -47,7 +47,7 @@
       <entry action="Git.Add" count="1" />
       <entry action="Git.Configure.Remotes" count="1" />
       <entry action="Git.Pull" count="1" />
-      <entry action="Github.Share" count="8" />
+      <entry action="Github.Share" count="9" />
       <entry action="HideAllWindows" count="2" />
       <entry action="ImportSettings" count="1" />
       <entry action="NewDirectoryProject" count="2" />
@@ -138,13 +138,13 @@
       <entry path="File -&gt; Synchronize" count="3" />
       <entry path="Help -&gt; Getting Started" count="1" />
       <entry path="Run -&gt; Run..." count="2" />
-      <entry path="VCS -&gt; Commit" count="4" />
+      <entry path="VCS -&gt; Commit" count="5" />
       <entry path="VCS -&gt; Git -&gt; Add" count="1" />
       <entry path="VCS -&gt; Git -&gt; Commit File" count="1" />
       <entry path="VCS -&gt; Git -&gt; Pull..." count="1" />
       <entry path="VCS -&gt; Git -&gt; Push..." count="3" />
       <entry path="VCS -&gt; Git -&gt; Remotes..." count="1" />
-      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="8" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="9" />
       <entry path="VCS -&gt; Update Project" count="3" />
       <entry path="View -&gt; Tool Windows -&gt; Python Console" count="1" />
       <entry path="View -&gt; Tool Windows -&gt; Terminal" count="1" />
